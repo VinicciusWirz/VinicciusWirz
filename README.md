@@ -26,7 +26,7 @@ I'm a passionate fullstack developer who excels in confronting complex challenge
 
 • Read and awatch mysteries and scifi stories 📕
 
-• Play retro, puzzles and combinatorial analysis games 🕹
+• Play retro, puzzles and logic games 🕹
 
 ### 📫 How to reach me
 
