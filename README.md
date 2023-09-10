@@ -14,7 +14,7 @@ I'm Viniccius, a 30 year's old Fullstack Web Developer, Nutritionist, gamer and 
       My genuine love for coding and problem-solving keeps me excited about every project I take on. I firmly believe that the most remarkable outcomes in software development come from thinking creatively and embracing innovation.
 </p>
 <p align='justify'>
-      If you're curious to learn more or want to discuss how effective communication can drive successful projects, feel free to start a conversation with me!
+      If you'd like to know more, don't hesitate to reach out!
 </p>
 
 ## 💻 Stack I'm currently working with
