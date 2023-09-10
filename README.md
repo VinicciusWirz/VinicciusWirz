@@ -32,7 +32,7 @@ I'm Viniccius, a 30 year's old Fullstack Web Developer, Nutritionist, gamer and 
 
 • Learn new technologies ⌨
 
-• Read and watch mysteries and scifi stories 📕
+• Read/watch mysteries and scifi stories 📕
 
 • Play retro, puzzles and logic games 🕹
 
