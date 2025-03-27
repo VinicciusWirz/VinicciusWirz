@@ -1,7 +1,7 @@
 # Hello there 👋
 
 Hi, welcome to my page!
-I'm Viniccius, a 30 year's old Fullstack Web Developer, Nutritionist, gamer and bass player from Brazil.
+I'm Viniccius, a 31 year's old Fullstack Web Developer, Nutritionist, gamer and bass player from Brazil.
 
 ## 📖 About
 <p align='justify'>  
